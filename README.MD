@@ -7,9 +7,26 @@ also looking for social media managers, and people who want to deal with contact
 
 
 
-# Current Teams
+# Current Teams / repos 
+
+### Front end 
+HTML / CSS / JS / UI / UX 
+Create the front of the website, will need to talk to the Djnago server
+
+### BackEnd Djnago 
+Python / Django 
+Hosts the forms, student data, emails etc. 
 
 
+### BackEnd Scala 
+Java, Scala, Postgress
+Scans the web for jobs, saves them, and reports what is found, talks to the backend server 
+Stores emails / other files to be used for 
+
+
+### Discord bot 
+Python / Javascript / Flask ? maybe 
+Discord bot for the community talks to the Django server backend, acts as a sort of front end to talk to our backend 
 
 
 # None code related work 
