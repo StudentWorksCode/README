@@ -3,36 +3,8 @@
 
 looking for devs to help, please email me at \[first name] dot \[last name] at mail.mcgill.ca
 
-also looking for social media managers, and people who want to deal with contacting external companies 
+also looking for social media managers,  UX / UI and people who want to deal with contacting external companies 
 
-
-
-# Current Teams / repos 
-
-### Front end 
-HTML / CSS / JS / UI / UX 
-Create the front of the website, will need to talk to the Djnago server
-
-### BackEnd Djnago 
-Python / Django 
-Hosts the forms, student data, emails etc. 
-
-
-### BackEnd Scala 
-Java, Scala, Postgress
-Scans the web for jobs, saves them, and reports what is found, talks to the backend server 
-Stores emails / other files to be used for 
-
-
-### Discord bot 
-Python / Javascript / Flask ? maybe 
-Discord bot for the community talks to the Django server backend, acts as a sort of front end to talk to our backend 
-
-
-# None code related work 
-
-1. need someone to draw the logo for the project
-2. need someone to work on the discord setting it up 
 
 
 Project scope roadmap; 
@@ -48,6 +20,8 @@ Project scope roadmap;
 9. ML with reusmes we have in database to show users were to apply and when for the highst chance of success analystics on the process
 10. Hopefully then we can organize online career events to help students get into CS. (resume prep channels / advice / guides applying guides leetcode guides etc)
 11. form to find cofounders / project partners and to show off projects 
+12. Leetcode bot to scan student leetcode see avg / other information / which question did successful applications do to prep 
+13. check to see who got into X or Y company and what experience they had / projects so you can start talioring the reusme to be better 
 
 ## Time line
 
@@ -61,9 +35,10 @@ by end of summer (ML featuires, checking for cheating, carrer events, show off p
 
 ## Motivation: 
 
-It seems that may students without coop oppertunities / programs / a strong CS culture in their school are lost when trying to apply for job, end up missing oppertunity and then falling behind. StudentWorks seek end to end the unfair advantage given by 
+It seems that may students without coop oppertunities / programs / a strong CS culture in their school are lost when trying to apply for job, end up missing oppertunity and then falling behind. StudentWorks seek end to end the unfair advantage given by those programs by giving students all the information they need to have to apply. for example x internship takes a lot of first years, better use of your time to apply there, or Y doesn't like to hire from your university better to put time into Z. Other information about who got into X company so you can see the ammount of experience you need etc. Finally have a community that supports students through resume roasts etc to make sure everyone is on the grind, having a leetcode bot would be interesting too if we have the time. 
+
+I just seek to help create talent. 
 
 
 Target audience: 
 First second third years looking to break into CS, most "try - hard" students will already know most that we have to offer. 
-
