@@ -7,6 +7,17 @@ also looking for social media managers, and people who want to deal with contact
 
 
 
+# Current Teams
+
+
+
+
+# None code related work 
+
+1. need someone to draw the logo for the project
+2. need someone to work on the discord setting it up 
+
+
 Project scope roadmap; 
 
 1. Bot to scrape all canada / US internship + newgrad roles and store them into a data base
